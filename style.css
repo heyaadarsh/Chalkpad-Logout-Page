@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+#header{
+    background-color: black;
+    width: 100%;
+    height: 17vh;
+}
+#chitkara_logo{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+}
+#table, th, td{
+    border: 1px solid rgb(220, 217, 217);
+}
+#table{
+    border-collapse: collapse;
+    width: 75vw;
+    height: 20vh;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.head1{
+    color: red;
+    font-family: "Segoe UI";
+    font-size: 14px;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+.head2{
+    background-color: rgb(255, 194, 14);
+    color: black;
+    font-family: "Segoe UI";
+    font-size: 14px;
+    padding: 2px;
+    padding-left: 5px;
+}
+.tdata{
+    font-family: "Segoe UI";
+    font-size: 14px;
+    font-weight: 470;
+    padding-left: 5px;
+}
+#h2txt{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75vw;
+}
+#line{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+}
+#h3txt{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75vw;
+    margin-bottom: 5px;
+}
+#btndiv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75vw;
+    margin-top: 45px;
+}
+#anbtn{
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
